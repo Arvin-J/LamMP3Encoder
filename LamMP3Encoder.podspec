@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "LamMP3Encoder"
-  s.version          = "1.3.0"
+  s.version          = "1.5.0"
   s.summary          = "An unofficial LamMP3Encoder Cocoapods repository."
   s.homepage         = "https://github.com/FlyingNoob/LamMP3Encoder"
   s.license          = 'MIT'
