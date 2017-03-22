@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LamMP3Encoder_Example' do
+  pod 'LamMP3Encoder', :path => '../'
+
+  target 'LamMP3Encoder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

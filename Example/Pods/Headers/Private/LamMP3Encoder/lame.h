@@ -1,0 +1,1 @@
+../../../../../LamMP3Encoder/lame.h

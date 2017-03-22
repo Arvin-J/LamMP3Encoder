@@ -1,0 +1,16 @@
+PODS:
+  - LamMP3Encoder (1.3.0)
+
+DEPENDENCIES:
+  - LamMP3Encoder (from `../`)
+
+EXTERNAL SOURCES:
+  LamMP3Encoder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LamMP3Encoder: 42603d959fdb1cf62e5b71e407d20c13af33dbcd
+
+PODFILE CHECKSUM: 6ff2858b92915841f7b01cff16c0bb9cd09f7aca
+
+COCOAPODS: 1.2.0
